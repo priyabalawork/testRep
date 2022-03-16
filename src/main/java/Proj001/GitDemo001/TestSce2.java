@@ -1,6 +1,7 @@
 package Proj001.GitDemo001;
 
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 public class TestSce2 {
 
